@@ -1,30 +1,28 @@
-# _{Application Name}_
+# _Address Book_
 
-#### _{Brief description of application}, {Date of current version}_
+#### _An online address book , 08.21.2017_
 
 #### By _**Margaret Berry**_
 
 ## Description
-
-_{This is a detailed description of your application. Its purpose and usage.  Give as much detail as needed to explain what the application does, and any other information you want users or other developers to have. }_
+_In this address book, a user can add multiple contacts with multiple addresses. The contact name appears as a link, which the user can click to show details._
 
 ## Setup/Installation Requirements
+_Run the following commands in Terminal:_
 
-* _This is a great place_
-* _to list setup instructions_
-* _in a simple_
-* _easy-to-understand_
-* _format_
+1. `$ git clone` [this repository](https://github.com/codemargaret/address-book.git)
+2. `$ cd address-book`
+3. `$ open index.html`
 
-_{Leave nothing to chance! You want it to be easy for potential users, employers and collaborators to run your app. Do I need to run a server? How should I set up my databases? Is there other code this app depends on?}_
+
+## Project Goals
+_Practice using jQuery and writing prototype functions._
 
 ## Known Bugs
-
 _There are no known bugs at this time._
 
 ## Support and contact details
-
-_If you have questions, comments, or concerns, please contact [Margaret](margaretshelaghmcgovern@gmail.com).  Feel free to make a contribution to the code._
+_If you have questions, comments, or concerns, please contact [Margaret](codeberry1@gmail.com).  Feel free to make a contribution to the code._
 
 ## Technologies Used
 
